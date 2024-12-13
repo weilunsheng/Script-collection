@@ -2,7 +2,7 @@
 // @name         wls自用
 // @namespace    刷课脚本
 // @version      0.1
-// @description  自动看课程
+// @description  自动看课程（仅限于研修教学网）
 // @author       lswei
 // @match        https://ipx.yanxiu.com/*
 // @grant        none
