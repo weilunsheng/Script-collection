@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         wls自用
+// @name         教育研修网刷课
 // @namespace    刷课脚本
 // @version      0.1
 // @description  自动看课程（仅限于研修教学网）
