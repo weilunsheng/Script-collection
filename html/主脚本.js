@@ -111,7 +111,7 @@
             console.error("评分区域或提交按钮未找到！");
         }
         // 检查是否需要点击“下一节”
-        handleNextLesson();
+        handleReplay(); //修改为重复播放
         // 视频静音
         muteVideo();
         //点击继续计时
